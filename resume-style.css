@@ -1,0 +1,107 @@
+body {
+  background-color:#444444;
+  font-family: arial;
+}
+
+.container {
+  border:#CCCCCC 3px solid;
+  width:500px;
+  padding:30px;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.title {
+  color: #FFFFFF;
+  font-style: italic;
+  text-align: center;
+}
+
+.main-nav {
+    text-align:center;
+    padding: 10px;
+}
+
+.main-nav li {
+  display:inline;
+  list-style:none;
+  border-right: #CCCCCC 1px solid;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.main-nav li:last-child {
+  border:none;
+}
+
+.main-nav a {
+  color: #00D590;
+}
+
+.white-text {
+  color: #FFFFFF;
+}
+
+.divider {
+  width: 100%;
+  border-top: #CCCCCC 1px solid;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.title2 {
+  color: #FFFFFF;
+  font-style: bold;
+  text-align: left;
+}
+
+.gray-text {
+  color: #bbbbbb;
+}
+
+.section-exp {
+  text-align:left;
+}
+
+.section-exp li {
+  list-style: square;
+  color: #FFFFFF;
+  padding-left: 5px;
+}
+
+.section-exp li:last-child {
+  list-style: none;
+}
+
+.title-text {
+  color: #FFFFFF;
+  font-size: 12pt;
+  font-style: bold;
+}
+
+.company-text {
+  color: #FFFFFF;
+  font-size: 10pt;
+  font-style: normal;
+}
+
+.year-text {
+  color: #bbbbbb;
+  font-size: 8pt;
+  font-style: normal;
+}
+
+.body-text {
+  color: #bbbbbb;
+  font-size: 10pt
+}
+
+.section-edu {
+  text-align:left;
+}
+
+.section-edu li {
+  list-style: square;
+  color: #FFFFFF;
+  padding-left: 5px;
+}
